@@ -1,5 +1,5 @@
 # reddit_project
-final project on reddit
+final project on reddit \n
 Tomer_Shalhon
 Daniel_Hakmon
 Amit_Picker
