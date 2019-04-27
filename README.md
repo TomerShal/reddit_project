@@ -1,5 +1,8 @@
 # reddit_project
 final project on reddit
+Tomer_Shalhon
+Daniel_Hakmon
+Amit_Picker
 
 Original reddint comments data file download link: https://mega.nz/#F!NtsCGTgD!urXdXLJ6yITYdWEdWN-H1w
 
