@@ -4,7 +4,7 @@ Tomer_Shalhon
 Daniel_Hakmon
 Amit_Picker
 
-Original reddint comments data file download link: https://mega.nz/#F!NtsCGTgD!urXdXLJ6yITYdWEdWN-H1w
+Original reddit comments data file download link: https://mega.nz/#F!NtsCGTgD!urXdXLJ6yITYdWEdWN-H1w
 
 Original column headers and info:
 'text', 'id', 'subreddit', 'meta', 'time', 'author', 'ups', 'downs', 'authorlinkkarma', 'authorcommentkarma', 'authorisgold'
